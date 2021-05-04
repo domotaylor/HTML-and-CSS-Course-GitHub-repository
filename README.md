@@ -1,2 +1,3 @@
-# HTML-and-CSS-Course-GitHub-repository
-The new repository for HTML and CSS course
+HTML and CSS Projects!!!
+this is where I'll display all my projects for this Repository
+
